@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/elinapark0818/Habit_tracker/static/css/main.ce91239b.chunk.css",
+    "main.js": "/elinapark0818/Habit_tracker/static/js/main.13e91072.chunk.js",
+    "main.js.map": "/elinapark0818/Habit_tracker/static/js/main.13e91072.chunk.js.map",
+    "runtime-main.js": "/elinapark0818/Habit_tracker/static/js/runtime-main.52d43059.js",
+    "runtime-main.js.map": "/elinapark0818/Habit_tracker/static/js/runtime-main.52d43059.js.map",
+    "static/js/2.dc8ba3d9.chunk.js": "/elinapark0818/Habit_tracker/static/js/2.dc8ba3d9.chunk.js",
+    "static/js/2.dc8ba3d9.chunk.js.map": "/elinapark0818/Habit_tracker/static/js/2.dc8ba3d9.chunk.js.map",
+    "index.html": "/elinapark0818/Habit_tracker/index.html",
+    "static/css/main.ce91239b.chunk.css.map": "/elinapark0818/Habit_tracker/static/css/main.ce91239b.chunk.css.map",
+    "static/js/2.dc8ba3d9.chunk.js.LICENSE.txt": "/elinapark0818/Habit_tracker/static/js/2.dc8ba3d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52d43059.js",
+    "static/js/2.dc8ba3d9.chunk.js",
+    "static/css/main.ce91239b.chunk.css",
+    "static/js/main.13e91072.chunk.js"
+  ]
+}
